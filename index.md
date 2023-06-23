@@ -12,7 +12,7 @@
 This project uses **Tableau** to analyze education data from the Massachusetts Department of Elementary and Secondary Education to accomplish the following objectives:  
 1. Determine the top schools in the state and what schools are struggling the most.
 2. Determine if class size affects college admission.
-3.  actionable insights to help increase fourth-grade math proficiency levels.
+3. Provide actionable insights to help increase fourth-grade math proficiency levels.
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
