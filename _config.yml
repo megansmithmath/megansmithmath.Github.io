@@ -1,8 +1,8 @@
 title: <p align="center"> Megan Smith </p> # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/LinkedIn Square (3).png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  I want some pizza  <br><br>
+  <p align="center"> **Data-Driven Educator** </p> 
+  Data Analyst │ Excel │ Tableau │ SQL  <br><br>
   <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
