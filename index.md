@@ -2,6 +2,7 @@
 
 ---
 
+
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](/bank)
