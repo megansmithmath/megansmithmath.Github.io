@@ -1,4 +1,4 @@
-# Welcome to My Portfolio
+# Portfolio
 
 ---
 
@@ -14,9 +14,12 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+#### [External Link Project](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith)
+[<img src="images/0 Education Cover Photo.png/>](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith)
+This project uses **Tableau** to analyze education data from the Massachusetts Department of Elementary and Secondary Education to accomplish the following objectives:  
+1. Determine the top schools in the state and what schools are struggling the most.
+2. Determine if class size affects college admission.
+3. Provide actionable insights to help increase fourth-grade math proficiency levels.
 
 
 ---
