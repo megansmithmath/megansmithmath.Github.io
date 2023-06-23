@@ -5,7 +5,6 @@
 
 ### Projects
 
----
 
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
 [<img src="images/0 Education Cover Photo.png?raw=true"/>](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith)
