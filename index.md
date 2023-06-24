@@ -1,4 +1,4 @@
-# Portfolio
+# <p align="center"> P O R T F O L I O </p>
 
 ---
 #### [TABLEAU: Education Data](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith)
