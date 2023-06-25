@@ -10,7 +10,7 @@ This project uses **Tableau** to analyze education data from the Massachusetts D
 - Provide actionable insights to help increase fourth-grade math proficiency levels.
 
 ---
-#### <p align="center">[EXCEL: Marketing Data](https://www.linkedin.com/pulse/doordash-optimizing-marketing-trends-through-data-analytics-smith/){:target="_blank"}</p>
+<p align="center"> #### [EXCEL: Marketing Data](https://www.linkedin.com/pulse/doordash-optimizing-marketing-trends-through-data-analytics-smith/){:target="_blank"}</p>
 [<img src="images/0 DoorDash Cover Pic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-optimizing-marketing-trends-through-data-analytics-smith/){:target="_blank"}
 This project uses **Excel** to analyze marketing trends to accomplish the following objectives:  
 - Understand the data to find business opportunities and insights.
