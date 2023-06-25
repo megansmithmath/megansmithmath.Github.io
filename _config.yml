@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Data Analyst │ Excel │ Tableau │ SQL 
   </p>
   <br>
-  <p align="center"> <a href="https://www.linkedin.com/in/megansmithmath/{:target="_blank"}">LinkedIn Profile</a> </p> 
+  <p align="center"> <a href="https://www.linkedin.com/in/megansmithmath/">LinkedIn Profile</a> </p> 
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
