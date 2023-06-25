@@ -9,6 +9,13 @@
 
 [<img src="images/Projects Pic.png?raw=true"/>](/projects)
 
+---
+
+[<img src="images/Resume.png?raw=true"/>](/Resume)
+
+---
+
+[<img src="images/Connect.png?raw=true"/>](/Connect)
 
 
 
