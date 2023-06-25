@@ -2,19 +2,19 @@
 
 ---
 
-[<img src="images/About Me.png?raw=true"/>](/About Me)
+[<img src="images/About Me2.png?raw=true"/>](/About Me)
 
 ---
 
-[<img src="images/Projects Pic.png?raw=true"/>](/projects)
+[<img src="images/Projects Pic2.png?raw=true"/>](/projects)
 
 ---
 
-[<img src="images/Resume.png?raw=true"/>](/Resume)
+[<img src="images/Resume2.png?raw=true"/>](/Resume)
 
 ---
 
-[<img src="images/Connect.png?raw=true"/>](/Connect)
+[<img src="images/Connect2.png?raw=true"/>](/Connect)
 
 
 ---
