@@ -22,3 +22,6 @@ I’m actively pursuing a data analyst role. If you know of any opportunities, I
 <br>
 <br>
   <p align="center"><a href="https://megansmithmath.github.io/"><img src="images/Home Button.png?raw=true"/>
+
+  ---
+  
