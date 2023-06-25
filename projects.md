@@ -3,7 +3,7 @@
 ---
 
 
-<h1 align="center"> P O R T F O L I O </h1>
+<h1 align="center"> P R O J E C T S </h1>
 
 
 ---
