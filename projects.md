@@ -1,4 +1,4 @@
-<img src="images/Projects Pic 2.png?raw=true"/>
+<h1 align="center"> P R O J E C T S </h1>
 
 ---
 
