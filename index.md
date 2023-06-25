@@ -1,5 +1,9 @@
 <h1 align="center"> P O R T F O L I O </h1>
 ---
+#### [Internal Blog Post Project](/projects)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 #### [TABLEAU: Education Data](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith)
 [<img src="images/0 Education Cover Photo.png?raw=true"/>](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith)
 This project uses **Tableau** to analyze education data from the Massachusetts Department of Elementary and Secondary Education to accomplish the following objectives:  
