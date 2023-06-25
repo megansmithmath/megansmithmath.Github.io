@@ -3,7 +3,6 @@
 ---
 
 [<img src="images/About Me.png?raw=true"/>](/About Me)
-<br>
 
 ---
 
