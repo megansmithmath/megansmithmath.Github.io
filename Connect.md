@@ -2,3 +2,4 @@
 
 ---
 
+[<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/megansmithmath/)
