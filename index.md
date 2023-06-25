@@ -1,4 +1,4 @@
-"/images/LinkedIn Banner.png?raw=true"
+![Image]("/images/LinkedIn Banner.png?raw=true")
 
 ---
 
