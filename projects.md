@@ -1,5 +1,6 @@
 ---
-<h1 align="center"> P O R T F O L I O </h1>
+<h1 align="center"> P R O J E C T S </h1>
+<img src="images/Projects Pic.png?raw=true"/>
 ---
 #### [TABLEAU: Education Data](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith)
 [<img src="images/0 Education Cover Photo.png?raw=true"/>](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith)
