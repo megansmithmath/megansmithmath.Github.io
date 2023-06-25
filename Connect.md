@@ -1,4 +1,9 @@
-<img src="images/Connect 2.png?raw=true"/>
+  <img src="images/LinkedIn Banner.png?raw=true"/>
+
+---
+
+
+<h1 align="center"> C O N N E C T </h1>
 
 ---
 
