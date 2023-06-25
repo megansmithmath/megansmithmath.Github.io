@@ -1,6 +1,6 @@
 <h1 align="center"> P O R T F O L I O </h1>
 ---
-#### [Internal Blog Post Project](/projects)
+#### [<h1 align="center"> P O R T F O L I O </h1>](/projects)
 [<img src="images/Projects Pic.png?raw=true"/>](/projects)
 
 
