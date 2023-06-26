@@ -8,7 +8,11 @@
 
 <br>
 <br>
-<p align="center">I’m actively pursuing a data analyst role. If you know of any opportunities, I’d love to talk with you to learn more. Otherwise, connect with me on LinkedIn to follow my data journey, and stay tuned for more future data projects.</p>
+description: >
+  <p align="center">
+  I’m actively pursuing a data analyst role. If you know of any opportunities, I’d love to talk with you to learn more. Otherwise, connect with me on LinkedIn to follow my data journey, and stay tuned for more future data projects.
+  </p>
+
 
 <br>
 <br>
