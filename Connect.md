@@ -1,8 +1,8 @@
-  <img src="images/LinkedIn Banner.png?raw=true"/>
+  <a img src="images/LinkedIn Banner.png?raw=true" <a/>
 
 ---
 
-<a <h1 align="center"> C O N N E C T </h1></a>
+<h1 align="center"> C O N N E C T </h1>
 
 --- 
 
