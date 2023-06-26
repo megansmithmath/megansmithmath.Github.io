@@ -2,7 +2,7 @@
 
 ---
 
-<span><h1 align="center"> C O N N E C T </h1></span>
+<h1 align="center"> C O N N E C T </h1>
 
 --- 
 
