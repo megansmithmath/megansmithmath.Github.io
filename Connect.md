@@ -1,4 +1,4 @@
-  <img src="images/LinkedIn Banner.png?raw=true"/>
+logo: "/images/LinkedIn Banner.png?raw=true"
 
 ---
 
@@ -20,6 +20,7 @@
   <p align="center"><a href="https://github.com/megansmithmath/"><img src="images/GitHub_icon30.png?raw=true"/>&nbsp;&nbsp; <a href="https://github.com/megansmithmath/">GitHub</a>
 
 ---
+
 <br>
 <br>
 <br>
