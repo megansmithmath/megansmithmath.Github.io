@@ -1,4 +1,4 @@
-logo: "/images/LinkedIn Banner.png?raw=true"
+  <img src="images/LinkedIn Banner.png?raw=true"/>
 
 ---
 
