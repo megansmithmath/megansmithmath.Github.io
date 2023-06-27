@@ -23,6 +23,7 @@ If you know of any opportunities, I’d love to talk with you to learn more. Let
   <p align="center"><a href="https://public.tableau.com/app/profile/megansmithmath/"><img src="images/tableau_icon30.png?raw=true"/>&nbsp;&nbsp; <a href="https://public.tableau.com/app/profile/megansmithmath/">Tableau</a>
   <p align="center"><a href="https://github.com/megansmithmath/"><img src="images/GitHub_icon30.png?raw=true"/>&nbsp;&nbsp; <a href="https://github.com/megansmithmath/">GitHub</a>
 
+<br>
 ---
 
 <br>
