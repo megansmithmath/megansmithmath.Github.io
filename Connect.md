@@ -23,7 +23,6 @@ I have a strong passion for data analysis and am actively pursuing a data analys
 <br>
 <br>
 <br>
-<br>
   <p align="center"><a href="https://megansmithmath.github.io/"><img src="images/Home Button.png?raw=true"/> 
 
   
