@@ -24,3 +24,6 @@ This project uses **Excel** to analyze marketing trends to accomplish the follow
 
  
 ---
+
+  <p align="center"><a href="https://megansmithmath.github.io/"><img src="images/Home Button.png?raw=true"/>
+  
