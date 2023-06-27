@@ -32,6 +32,4 @@ If you know of any opportunities, I’d love to talk with you to learn more. Let
 <br>
   <p align="center"><a href="https://megansmithmath.github.io/"><img src="images/Home Button.png?raw=true"/> 
 
----
-
   
