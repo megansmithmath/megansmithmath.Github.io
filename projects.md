@@ -15,7 +15,6 @@ This project uses **Tableau** to analyze education data from the Massachusetts D
 - Determine if class size affects college admission.
 - Provide actionable insights to help increase fourth-grade math proficiency levels.
 
-<br>
 
 ---
 #### [EXCEL: Marketing Data](https://www.linkedin.com/pulse/doordash-optimizing-marketing-trends-through-data-analytics-smith/){:target="_blank"}
