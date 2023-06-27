@@ -24,4 +24,3 @@ This project uses **Excel** to analyze marketing trends to accomplish the follow
 
  
 ---
----
