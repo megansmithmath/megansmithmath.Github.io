@@ -1,8 +1,6 @@
 <h1 align="center"> A B O U T &nbsp;&nbsp;M E </h1>
-
-
 ---
-description: > # your text below (remove <br> elements if you don't need line breaks)
+#### []()
   <p align="center">
   Data-Driven Educator
   </p>
