@@ -25,7 +25,7 @@ If you know of any opportunities, I’d love to talk with you to learn more. Let
 
 <br>
 ---
-.
+a
 <br>
 <br>
 <br>
