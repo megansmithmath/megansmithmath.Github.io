@@ -15,7 +15,7 @@
 
 ---
 
-[<img src="images/Resume 2.png?raw=true"/>](/files/Resume - Megan Smith)
+[<img src="images/Resume 2.png?raw=true"/>](files/Resume - Megan Smith)
 
 ---
 
