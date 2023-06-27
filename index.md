@@ -16,7 +16,7 @@
 ---
 
 [<img src="images/Resume 2.png?raw=true"/>](/files/Resume - Megan Smith.pdf)
-#### [Linked File Project](/files/Resume - Megan Smith.pdf)
+
 ---
 
 [<img src="images/Connect 2.png?raw=true"/>](/Connect)
