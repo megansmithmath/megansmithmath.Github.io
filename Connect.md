@@ -27,7 +27,7 @@ If you know of any opportunities, I’d love to talk with you to learn more. Let
 
 ***
 
-a
+  <hr>
 
 <br>
 <br>
