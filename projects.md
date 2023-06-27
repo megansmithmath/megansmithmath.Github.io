@@ -19,9 +19,9 @@ Utilized **Tableau** to create a **dashboard** analyzing education data from the
 ---
 #### [EXCEL: Marketing Data](https://www.linkedin.com/pulse/doordash-optimizing-marketing-trends-through-data-analytics-smith/){:target="_blank"}
 [<img src="images/0 DoorDash Cover Pic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-optimizing-marketing-trends-through-data-analytics-smith/){:target="_blank"}
-This project uses **Excel** to analyze marketing trends to accomplish the following objectives:  
-- Understand the data to find business opportunities and insights.
-- Propose any data-driven action to optimize the results of six previous ad campaigns that the marketing department deployed to generate value for the company.
+Utilized **Excel** to analyze marketing trends and create **data visualizations** to accomplish the following objectives:  
+- Understand the data to find business opportunities and insights
+- Optimize the results of six previous ad campaigns that the marketing department deployed to generate value for the company
 <br>
  
 ---
