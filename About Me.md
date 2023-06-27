@@ -11,7 +11,7 @@ As a teacher, I use data to assess student mastery, identify misconceptions, and
 
 Outside the classroom, I can easily spend hours diving deep into data looking for trends and insights waiting to be uncovered. I am currently refining my skills in Excel and learning to apply my statistical knowledge to Tableau and SQL. I am excited to use my mathematical expertise and passion for identifying patterns to make data-informed decisions and optimize outcomes.
 
-<br>
+<br><br>
 <hr>
   <br>
 <br>
