@@ -15,13 +15,15 @@ This project uses **Tableau** to analyze education data from the Massachusetts D
 - Determine if class size affects college admission.
 - Provide actionable insights to help increase fourth-grade math proficiency levels.
 
+<br>
+
 ---
 #### [EXCEL: Marketing Data](https://www.linkedin.com/pulse/doordash-optimizing-marketing-trends-through-data-analytics-smith/){:target="_blank"}
 [<img src="images/0 DoorDash Cover Pic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-optimizing-marketing-trends-through-data-analytics-smith/){:target="_blank"}
 This project uses **Excel** to analyze marketing trends to accomplish the following objectives:  
 - Understand the data to find business opportunities and insights.
 - Propose any data-driven action to optimize the results of six previous ad campaigns that the marketing department deployed to generate value for the company.
-
+<br>
  
 ---
 <br><br>
