@@ -9,7 +9,7 @@
 
 As a teacher, I use data to assess student mastery, identify misconceptions, and tailor instruction to meet individual needs. I have also mastered breaking down challenging mathematical concepts and **effectively presenting** them to learners of all ability levels. With these skills, I easily **communicate** and translate complex topics into clear, **actionable recommendations** for stakeholders and team members.
 
-Outside the classroom, I can easily spend hours diving deep into data looking for trends and insights waiting to be uncovered. I am currently refining my skills in **Excel** and learning to apply my statistical knowledge to **Tableau** and **SQL**. I am excited to use my mathematical expertise and passion for **identifying patterns** to make **data-informed decisions** and **optimize outcomes**.
+Outside the classroom, I can easily spend hours diving deep into data looking for trends and insights waiting to be uncovered. I am currently refining my skills in **Excel** and learning to apply my statistical knowledge to **Tableau** and **SQL**. I am excited to use my mathematical expertise and passion for **identifying patterns** to make **data-informed** decisions and **optimize outcomes**.
 <br><br>
 <hr>
   <br>
