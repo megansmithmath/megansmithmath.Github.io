@@ -16,7 +16,7 @@
 ---
 
 [<img src="images/Resume 2.png?raw=true"/>](files/Resume - Megan Smith.pdf)
-
+#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 ---
 
 [<img src="images/Connect 2.png?raw=true"/>](/Connect)
