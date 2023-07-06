@@ -8,8 +8,8 @@
 
 ---
 
-#### [SQL: Financial Data](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith/){:target="_blank"}
-[<img src="images/0 Finance Cover Photo.png?raw=true"/>](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith/){:target="_blank"}
+#### [SQL: Financial Data](https://www.linkedin.com/pulse/aiding-developing-countries-analysis-loans-grants-megan-smith/){:target="_blank"}
+[<img src="images/0 Finance Cover Photo.png?raw=true"/>](https://www.linkedin.com/pulse/aiding-developing-countries-analysis-loans-grants-megan-smith/){:target="_blank"}
 Utilized **SQL** to create **queries** analyzing loans and grants from the World Bank Group to accomplish the following objectives:  
 - Determine what countries have the highest number of transactions and owe the most to the International Development Association (IDA)
 - Investigate transactions made with Uganda to determine what kinds of projects they are investing in
