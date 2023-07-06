@@ -8,6 +8,16 @@
 
 ---
 
+#### [SQL: Financial Data](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith/){:target="_blank"}
+[<img src="images/0 Finance Cover Photo.png?raw=true"/>](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith/){:target="_blank"}
+Utilized **SQL** to create **queries** analyzing loans and grants from the World Bank Group to accomplish the following objectives:  
+- Determine what countries have the highest number of transactions and owe the most to the IDA
+- Find the range of interest rates in the loans the IDA has issued
+- Investigate transactions made with Uganda to determine what kinds of projects they are investing in
+
+
+---
+
 #### [TABLEAU: Education Data](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith/){:target="_blank"}
 [<img src="images/0 Education Cover Photo.png?raw=true"/>](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith/){:target="_blank"}
 Utilized **Tableau** to create a **dashboard** analyzing education data from the Massachusetts Department of Secondary and Elementary Education to accomplish the following objectives:  
