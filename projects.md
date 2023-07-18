@@ -9,7 +9,7 @@
 ---
 
 #### [SQL: Healthcare Data](https://www.linkedin.com/pulse/providing-best-care-analysis-diabetic-patients-megan-smith/){:target="_blank"}
-[<img src="images/0 Healthcare Cover Photo.png?raw=true"/>](https://www.linkedin.com/pulse/providing-best-care-analysis-diabetic-patients-megan-smith/){:target="_blank"}
+[<img src="images/0 Healthcare Cover Pic.png?raw=true"/>](https://www.linkedin.com/pulse/providing-best-care-analysis-diabetic-patients-megan-smith/){:target="_blank"}
 Utilized **SQL** to create **queries** analyzing loans and grants from the World Bank Group to accomplish the following objectives:  
 - Identify the distribution and trends in the time patients spend in the hospital 
 - Investigate relationships between the number of procedures patients undergo and the admitting physician's specialty
