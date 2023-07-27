@@ -28,12 +28,9 @@ Utilized **SQL** to create **queries** analyzing loans and grants from the World
 #### [TABLEAU: Education Data](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith/){:target="_blank"}
 [<img src="images/0 Education Cover Photo.png?raw=true"/>](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith/){:target="_blank"}
 Utilized **Tableau** to create a **dashboard** analyzing education data from the Massachusetts Department of Secondary and Elementary Education to accomplish the following objectives:
-
 - Determine the top schools in the state and what schools are struggling the most
 - Determine if class size affects college admission
 - Provide actionable insights to help increase fourth-grade math proficiency levels
-  
-I was asked to present this project as a guest speaker at Kaplan's Tableau User Group Meeting, effectively communicating insights to analysts  
 
 ---
 #### [EXCEL: Marketing Data](https://www.linkedin.com/pulse/doordash-optimizing-marketing-trends-through-data-analytics-smith/){:target="_blank"}
