@@ -14,7 +14,6 @@ Utilized **SQL** to create **queries** analyzing diabetic patient trends to acco
 - Identify the distribution and trends in the time patients spend in the hospital 
 - Investigate relationships between the number of procedures patients undergo and the admitting physician's specialty
 
-
 ---
 
 #### [SQL: Financial Data](https://www.linkedin.com/pulse/aiding-developing-countries-analysis-loans-grants-megan-smith/){:target="_blank"}
@@ -32,7 +31,7 @@ Utilized **Tableau** to create a **dashboard** analyzing education data from the
 - Determine the top schools in the state and what schools are struggling the most
 - Determine if class size affects college admission
 - Provide actionable insights to help increase fourth-grade math proficiency levels
-
+Presented as a guest speaker at Kaplan’s Tableau User Group Meeting, effectively communicating insights to analysts
 
 ---
 #### [EXCEL: Marketing Data](https://www.linkedin.com/pulse/doordash-optimizing-marketing-trends-through-data-analytics-smith/){:target="_blank"}
