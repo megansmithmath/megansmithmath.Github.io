@@ -31,7 +31,8 @@ Utilized **Tableau** to create a **dashboard** analyzing education data from the
 - Determine the top schools in the state and what schools are struggling the most
 - Determine if class size affects college admission
 - Provide actionable insights to help increase fourth-grade math proficiency levels
-
+  
+I was sought out by an analytics leader at Kaplan, Inc. and asked to speak at their Internal Tableau User Group Meeting as a guest speaker about this project. My 50-minute presentation provided specific insights for Kaplan analysts. Part of the presentation can be viewed in Tableau Public here. 
 ---
 #### [EXCEL: Marketing Data](https://www.linkedin.com/pulse/doordash-optimizing-marketing-trends-through-data-analytics-smith/){:target="_blank"}
 [<img src="images/0 DoorDash Cover Pic.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-optimizing-marketing-trends-through-data-analytics-smith/){:target="_blank"}
