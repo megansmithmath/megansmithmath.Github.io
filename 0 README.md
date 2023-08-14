@@ -2,6 +2,3 @@
 
 ---
 #### <h1 align="center"> Click [here](https://megansmithmath.github.io/) to view my portfolio </h1>
-
- P O R T F O L I O 
----
