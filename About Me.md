@@ -5,11 +5,24 @@
 ---
 #### []()
 <br>
-  I’m passionate about data analytics and am a seasoned high school math educator. With thirteen years of teaching experience and a **master’s degree in Applied Industrial Mathematics**, I have a unique skill set that combines teaching methods, instructional best practices, **analytical problem-solving**, and a deep understanding of data. Using these skills, I strive to bridge the gap between numbers and knowledge and empower organizations to make informed decisions. 
+I have a solid combination of data analysis and learning development experience with proven skills in improving culture and creating environments that allow clients to meet all KPIs and milestones and easily apply data-driven solutions for over 15 years. I have outstanding communication and success in fast-paced environments with a reputation for forming a rapport with diverse, multicultural individuals at all levels. I have demonstrated a commitment to maximizing technology and developing powerful solutions for over 120 clients in one year. I have knowledge and experience in:
+-	Performance Analysis
+-	Data-Driven Instruction
+-	Calm Under Tense Situations
+-	Communication & Transparency
+-	Cooperative Problem Resolver
+-	Leadership & Management
+-	Multitasking & Organization
+-	Objective & Goal Thinker
+-	Team & Staff Collaboration
 
-As a teacher, I use data to assess student mastery, identify misconceptions, and tailor instruction to meet individual needs. I have also mastered breaking down challenging mathematical concepts and **effectively presenting** them to learners of all ability levels. With these skills, I easily **communicate** and translate complex topics into clear, **actionable recommendations** for stakeholders and team members.
+I also have a master’s degree in Applied Industrial Mathematics, which included advanced coursework in mathematical modeling, optimization techniques, and numerical methods. I have experience in data visualization and analytics programs, including: 
+-	Tableau
+-	SQL
+-	Python
+-	Domo
+-	Excel
 
-Outside the classroom, I can easily spend hours diving deep into data looking for trends and insights waiting to be uncovered. I am currently refining my skills in **Excel** and learning to apply my statistical knowledge to **Tableau** and **SQL**. I am excited to use my mathematical expertise and passion for **identifying patterns** to make **data-informed** decisions and **optimize outcomes**.
 <br><br>
 <hr>
   <br>
