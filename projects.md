@@ -8,6 +8,12 @@
 
 ---
 
+#### [Python: Manufacturing Data]( https://www.linkedin.com/pulse/iron-ore-incident-investigation-analysis-processes-megan-smith-ybh1f/){:target="_blank"}
+[<img src="images/0 Manufacturing Cover Photo.png?raw=true"/>]( https://www.linkedin.com/pulse/iron-ore-incident-investigation-analysis-processes-megan-smith-ybh1f/){:target="_blank"}
+
+
+---
+
 #### [SQL: Healthcare Data](https://www.linkedin.com/pulse/providing-best-care-analysis-diabetic-patients-megan-smith/){:target="_blank"}
 [<img src="images/0 Healthcare Cover Pic.png?raw=true"/>](https://www.linkedin.com/pulse/providing-best-care-analysis-diabetic-patients-megan-smith/){:target="_blank"}
 - Created SQL queries to examine hospital patient data spanning 10 years and covering over 101,000 diabetic patients, identifying correlations between medical specialties and patient procedures and assessing the impact of race on medical treatments.
