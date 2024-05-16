@@ -8,7 +8,7 @@
 
 ---
 
-#### [Python: Manufacturing Data]( https://www.linkedin.com/pulse/iron-ore-incident-investigation-analysis-processes-megan-smith-ybh1f/){:target="_blank"}
+#### [PYTHON: Manufacturing Data]( https://www.linkedin.com/pulse/iron-ore-incident-investigation-analysis-processes-megan-smith-ybh1f/){:target="_blank"}
 [<img src="images/0 Manufacturing Cover Photo.png?raw=true"/>]( https://www.linkedin.com/pulse/iron-ore-incident-investigation-analysis-processes-megan-smith-ybh1f/){:target="_blank"}
 
 
