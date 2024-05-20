@@ -25,9 +25,9 @@
 
 #### [SQL: Financial Data](https://www.linkedin.com/pulse/aiding-developing-countries-analysis-loans-grants-megan-smith/){:target="_blank"}
 [<img src="images/0 Finance Cover Photo.png?raw=true"/>](https://www.linkedin.com/pulse/aiding-developing-countries-analysis-loans-grants-megan-smith/){:target="_blank"}
-Utilized **SQL** to create **queries** analyzing loans and grants from the World Bank Group to accomplish the following objectives:  
-- Determine what countries have the highest number of transactions and owe the most to the International Development Association (IDA)
-- Investigate transactions made with Uganda to determine what kinds of projects they are investing in
+-	Created SQL queries to examine over 1.18 million transactions representing loans and grants issued from the World Bank Group to identify top borrowing countries, interest rate ranges, and investment impacts.
+-	Conducted financial analysis demonstrating that the number of transactions does not correlate to the total debt, highlighting India, Pakistan, and Bangladesh as the top debtors.
+-	Analyzed Uganda’s $88 investment in economic recovery and infrastructure development, contributing to a 6.8% economic improvement within the first half of the year.
 
 
 ---
