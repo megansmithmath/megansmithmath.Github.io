@@ -16,7 +16,7 @@
 
 #### [SQL: Healthcare Data](https://www.linkedin.com/pulse/providing-best-care-analysis-diabetic-patients-megan-smith/){:target="_blank"}
 [<img src="images/0 Healthcare Cover Pic.png?raw=true"/>](https://www.linkedin.com/pulse/providing-best-care-analysis-diabetic-patients-megan-smith/){:target="_blank"}
-- Created SQL queries to examine hospital patient data spanning 10 years and covering over 101,000 diabetic patients, identifying correlations between medical specialties and patient procedures and assessing the impact of race on medical treatments.
+- Leveraged SQL to examine hospital patient data spanning 10 years and covering over 101,000 diabetic patients, identifying correlations between medical specialties and patient procedures and assessing the impact of race on medical treatments.
 - Analyzed healthcare data to reveal equitable treatment for diabetic patients regardless of race, highlighting an inclusive approach and commitment to unbiased healthcare services.
 - Translated analytical findings into actionable recommendations, including suggestions for optimizing hospital operations, enhancing patient care, and leveraging success stories for public relations initiatives. 
 
