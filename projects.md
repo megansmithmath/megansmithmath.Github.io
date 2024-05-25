@@ -8,6 +8,13 @@
 
 ---
 
+#### [R: Human Resources Data]( [https://www.linkedin.com/pulse/iron-ore-incident-investigation-analysis-processes-megan-smith-ybh1f/](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/)](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/){:target="_blank"}
+[<img src="images/0 HR Cover.png?raw=true"/>](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/){:target="_blank"}
+
+
+
+------
+
 #### [PYTHON: Manufacturing Data]( https://www.linkedin.com/pulse/iron-ore-incident-investigation-analysis-processes-megan-smith-ybh1f/){:target="_blank"}
 [<img src="images/0 Manufacturing Cover Photo.png?raw=true"/>]( https://www.linkedin.com/pulse/iron-ore-incident-investigation-analysis-processes-megan-smith-ybh1f/){:target="_blank"}
 - Interpreted manufacturing time series data containing 730,000 samples, investigating anomalies and identifying correlations between critical variables impacting plant performance. 
