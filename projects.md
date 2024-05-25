@@ -8,7 +8,7 @@
 
 ---
 
-#### [R: Human Resources Data]( [https://www.linkedin.com/pulse/iron-ore-incident-investigation-analysis-processes-megan-smith-ybh1f/](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/)](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/){:target="_blank"}
+#### [R: Human Resources Data](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/){:target="_blank"}
 [<img src="images/0 HR Cover.png?raw=true"/>](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/){:target="_blank"}
 
 
