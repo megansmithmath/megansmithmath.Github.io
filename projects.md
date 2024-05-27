@@ -8,7 +8,7 @@
 
 ---
 
-#### [R: Human Resources Data](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/){:target="_blank"}
+#### [R: People Analytics](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/){:target="_blank"}
 [<img src="images/0 HR Cover.png?raw=true"/>](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/){:target="_blank"}
 
 
