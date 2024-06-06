@@ -3,13 +3,13 @@
 ---
 
 
-<h1 align="center"> S Q L :   S P O R T S   A N A L Y T I C S </h1>
+<h1 align="center"> S Q L  </h1>
 
 
 ---
 
-### [Dominating the Court: An Analysis of the 2023-2024 NBA Season]
-[<img src="images/NBA0.png?raw=true"/>]
+### Dominating the Court: An Analysis of the 2023-2024 NBA Season
+<img src="images/NBA0.png?raw=true"/>
 
 #### INTRODUCTION
 Analytics is woven into nearly every industry but has always been deeply rooted in sports. In basketball, basic data collection, such as points, rebounds, and assists, dates back to the early 1900s. However, its influence rose with the emergence of advanced metrics by visionaries like coach Dean Oliver and basketball operations president Daryl Morey of the Philadelphia 76ers. Today, these sophisticated metrics and models not only optimize player performance but also shape game strategies and play a vital role in decision-making during critical moments of play. 
