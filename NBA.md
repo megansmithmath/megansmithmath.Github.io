@@ -2,19 +2,16 @@
 
 ---
 
-
 <h1 align="center">S Q L&nbsp;&nbsp;P R O J E C T</h1>
-
 
 ---
 
-### Dominating the Court: An Analysis of the 2023-2024 NBA Season
 <img src="images/NBA0.png?raw=true"/>
 
 <br>
 #### INTRODUCTION
 Analytics is woven into nearly every industry but has always been deeply rooted in sports. In basketball, basic data collection, such as points, rebounds, and assists, dates back to the early 1900s. However, its influence rose with the emergence of advanced metrics by visionaries like coach Dean Oliver and basketball operations president Daryl Morey of the Philadelphia 76ers. Today, these sophisticated metrics and models not only optimize player performance but also shape game strategies and play a vital role in decision-making during critical moments of play. 
-<br>
+
 #### OBJECTIVE
 I’m assuming a data analyst role for the National Basketball Association (NBA) for this project and have been tasked with the following main objectives:
 1. Determine what position is the most efficient at shooting 3-pointers for each team.
@@ -77,7 +74,7 @@ Changing the stacked bar chart in this way makes it easier to see the overall co
 2. Since there is a strong positive linear correlation between total points and assists, with point guards leading in assists, developing plays across all positions that introduce offensive plays that create more assist opportunities for other players may enhance overall team performance
 3. Teams should further analyze the play styles and training regimes of stand-out players like Domantas Sabonis, Nikola Jokić, and Luka Dončić, who excel in multiple areas. Implementing aspects of their individual training and play structure can potentially strengthen other key players and teams.
 4. Teams like the Atlanta Hawks seemed to have benefited from adjusting player positions to balance the scoring load. However, adjusting the offensive strategy alone may not drastically improve certain teams. Therefore, targeting recruits and careful draft selections may be the next steps for some struggling teams.
-
+<br><br>
  
 ---
 <br><br>
