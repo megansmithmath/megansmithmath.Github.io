@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">S Q L&nbsp;&nbsp;P R O J E C T</h1>
+<h1 align="center">S Q L&nbsp;&nbsp;&nbsp;P R O J E C T</h1>
 
 ---
 
