@@ -8,7 +8,7 @@
 #### []()
 [<img src="images/NBA0.png?raw=true"/>](https://public.tableau.com/views/NBA2023-24Season/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link){:target="_blank"}
 <br>
-#### Introduction
+#### **Introduction**
 Analytics is woven into nearly every industry but has always been deeply rooted in sports. In basketball, basic data collection, such as points, rebounds, and assists, dates back to the early 1900s. However, its influence rose with the emergence of advanced metrics by visionaries like coach Dean Oliver and basketball operations president Daryl Morey of the Philadelphia 76ers. Today, these sophisticated metrics and models not only optimize player performance but also shape game strategies and play a vital role in decision-making during critical moments of play. 
 
 #### Objective
