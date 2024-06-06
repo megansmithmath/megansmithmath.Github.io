@@ -10,7 +10,9 @@
 
 #### [R: People Analytics](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/){:target="_blank"}
 [<img src="images/0 HR Cover.png?raw=true"/>](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/){:target="_blank"}
-
+- Utilized R programming language in RStudio to examine human resource data for 1,470 employees to investigate HR-related claims, effectively refuting allegations of ageism and income-based layoffs. 
+- Developed multivariate linear regression models to explore complex relationships between employee attributes, facilitating a deeper understanding of factors influencing monthly income and informing HR strategies, resulting in a 35% increase in predictive power compared to univariate models.
+  - Analyzed performance rating correlations, finding strong ties to percent salary hikes (r = 0.77) but not to monthly income or training attendance, leading to recommendations for targeted professional development programs. 
 
 
 ------
