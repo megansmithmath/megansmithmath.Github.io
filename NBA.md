@@ -25,7 +25,7 @@ I’m assuming a data analyst role for the National Basketball Association (NBA)
 4. The Atlanta Hawk’s power forwards scored only 24 points all season, compared to the median of 1,839, while their shooting guards scored 3,685 points, highlighting a need for better scoring balance.
 
 #### THE DATA
-The data for this project can be found on Basketball Reference, a website housing current and historical NBA statistics. This dataset contains information on 573 players from 31 teams from the 2023-2024 season. It includes each player's position, the number of games started and played, the number of shots attempted and made, and the number of assists, steals, blocks, turnovers, etc. 
+The data for this project can be found on [Basketball Reference](https://www.basketball-reference.com/leagues/NBA_2024_totals.html){:target="_blank"}, a website housing current and historical NBA statistics. This dataset contains information on 573 players from 31 teams from the 2023-2024 season. It includes each player's position, the number of games started and played, the number of shots attempted and made, and the number of assists, steals, blocks, turnovers, etc. 
 
 The data was downloaded using the “Get Table as CSV (for Excel)” option, which embedded the Comma Separated Values (CSV) file directly into the webpage. Then, I copied, pasted, and saved the data into a Microsoft Notepad file, which allowed me to seamlessly open the file in Microsoft Excel to avoid data loss. Then, I was able to upload the file into Tableau. The interactive components of this data story are posted on Tableau Public here.
 
