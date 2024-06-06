@@ -3,7 +3,7 @@
 ---
 
 
-<h1 align="center"> S Q L  </h1>
+<h1 align="center">S Q L&nbsp;&nbsp;P R O J E C T</h1>
 
 
 ---
@@ -11,9 +11,10 @@
 ### Dominating the Court: An Analysis of the 2023-2024 NBA Season
 <img src="images/NBA0.png?raw=true"/>
 
+<br>
 #### INTRODUCTION
 Analytics is woven into nearly every industry but has always been deeply rooted in sports. In basketball, basic data collection, such as points, rebounds, and assists, dates back to the early 1900s. However, its influence rose with the emergence of advanced metrics by visionaries like coach Dean Oliver and basketball operations president Daryl Morey of the Philadelphia 76ers. Today, these sophisticated metrics and models not only optimize player performance but also shape game strategies and play a vital role in decision-making during critical moments of play. 
-
+<br>
 #### OBJECTIVE
 I’m assuming a data analyst role for the National Basketball Association (NBA) for this project and have been tasked with the following main objectives:
 1. Determine what position is the most efficient at shooting 3-pointers for each team.
