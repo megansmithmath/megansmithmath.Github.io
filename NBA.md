@@ -77,6 +77,6 @@ Changing the stacked bar chart in this way makes it easier to see the overall co
 <br><br>
  
 ---
-<br><br>
+<br>
   <p align="center"><a href="https://megansmithmath.github.io/"><img src="images/Home Button.png?raw=true"/>
   
