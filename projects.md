@@ -5,6 +5,14 @@
 
 <h1 align="center"> P R O J E C T S </h1>
 
+---
+
+#### [SQL: Sports Analytics](/NBA)
+[<img src="images/NBA0.png?raw=true"/>](/NBA)
+- Analyzed NBA data in Tableau to identify 3-point shooting efficiency, player performance by position, and team scoring trends, identifying disparities and strategic recruitment needs.
+- Evaluated player performance metrics, discovering a strong correlation between points and assists and identifying top performers.
+- Utilized Tableau to create data visualizations analyzing team points distribution, highlighting top-scoring teams and individual player contributions. 
+
 
 ---
 
@@ -15,7 +23,7 @@
 - Analyzed performance rating correlations, finding strong ties to percent salary hikes (r = 0.77) but not to monthly income or training attendance, leading to recommendations for targeted professional development programs. 
 
 
-------
+---
 
 #### [PYTHON: Manufacturing Data]( https://www.linkedin.com/pulse/iron-ore-incident-investigation-analysis-processes-megan-smith-ybh1f/){:target="_blank"}
 [<img src="images/0 Manufacturing Cover Photo.png?raw=true"/>]( https://www.linkedin.com/pulse/iron-ore-incident-investigation-analysis-processes-megan-smith-ybh1f/){:target="_blank"}
