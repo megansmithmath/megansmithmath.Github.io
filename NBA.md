@@ -34,12 +34,14 @@ In the dataset, each NBA player had at least one row of statistics for the 2023-
 
 #### Analysis: 3-Point Percentages
 Once the data was cleaned, the first task was to create a data visualization to determine the teams with the highest percentage of successful 3-point shots per position. Below is a heatmap displaying this data in Tableau. 
+
 [<img src="images/NBA1.png?raw=true"/>](https://public.tableau.com/shared/6R6ZS2RWT?:display_count=n&:origin=viz_share_link){:target="_blank"}
 
 The Charlotte Hornets (CHO) and the Cleveland Cavaliers (CLE) centers are highlighted in shades of orange. This indicates that the centers for these teams have very low 3-point percentages compared to other players and teams. While this is alarming, the centers on the team often play a significant role in defending against the opposing team’s larger players and typically play near the basket, thus having fewer opportunities for 3-point attempts. It is interesting to note that the **centers for the Boston Celtics (BOS) and the Minnesota Timberwolves (MIN) have the highest 3-point percentages (40%), and these are two teams that made it to the final four in the playoffs.** More analysis must be conducted to determine other factors contributing to these team's success.
 
 #### Analysis: Points, Assists, and Rebounds by Position
 Next, the NBA would like to know how different players performed this season to evaluate for potential free-agent signings. As a result, I examined all players' total points, total assists, and total rebounds using a bubble plot, as shown below. 
+
 [<img src="images/NBA2.png?raw=true"/>](https://public.tableau.com/shared/Z4W7ZSGQY?:display_count=n&:origin=viz_share_link){:target="_blank"}
 
 To visually represent players’ roles on the court, the inner positions (centers and power forwards) are depicted in shades of orange, while the three remaining outer positions are in shades of blue and grey. The dashed linear regression line shows a strong positive correlation with a coefficient of determination, or R-squared value, of 0.725. This indicates that **as the number of points scored increases, so does the number of assists**. 
@@ -50,12 +52,14 @@ Two centers are outliers: **Domantas Sabonis** of the Sacramento Kings and **Nik
 
 #### Analysis: Player Assists by Position
 Next, the NBA was interested in understanding the distribution of assists among players and positions. So, as shown below, I used a treemap to visualize this data.
+
 [<img src="images/NBA3.png?raw=true"/>](https://public.tableau.com/shared/NMNT9ZKYC?:display_count=n&:origin=viz_share_link){:target="_blank"}
 
 Each rectangle represents a player and is color-coded for the position they play. The larger the rectangle, the more assists that player had during the season, which allows for quick identification of top assist leaders. **Overall, point guards are responsible for the majority of assists**, which, as discussed earlier, makes sense given their role in directing the team's offense. **LeBron James** of the Los Angeles Lakers **had 589 assists, the highest of all power forwards in the NBA. Centers Nikola Jokić and Domantas Sabonis have the highest number of assists** (708 and 673, respectively), **nearly double that of the next-highest center**, Kelly Olynyk (347). 
 
 #### Analysis: Team Points by Players
 To quickly identify general trends in the distribution of total points made by each player, I created a quick stacked bar chart in Tableau, displayed below.
+
 [<img src="images/NBA4.png?raw=true"/>](https://public.tableau.com/shared/FF4RWF6PW?:display_count=n&:origin=viz_share_link){:target="_blank"}
 
 While the visualization above houses a lot of information, it is clear that the Indiana Pacers (IND) and Boston Celtics (BOS) are the two highest-scoring teams in the NBA this season, and they advanced to the final four of the playoffs. However, the Dallas Mavericks (DAL) and Minnesota Timberwolves (MIN) made it to the final four but were not among the top five scoring teams. This implies **that advancing to the playoffs is not reliant on the offensive game alone.** The defensive game is just as important.
@@ -64,6 +68,7 @@ Additionally, **each team typically relies on three to four primary scorers, wit
 
 #### Analysis: Team Points by Position
 To better understand the breakdown of total team points, I changed the bars in the stacked bar chart above from individual players to listed player positions, as shown below.
+
 [<img src="images/NBA5.png?raw=true"/>](https://public.tableau.com/shared/FFDDHGRC6?:display_count=n&:origin=viz_share_link){:target="_blank"}
 
 Changing the stacked bar chart in this way makes it easier to see the overall composition of the types of players who are scoring the most. What stands out the most is the **Atlanta Hawks (ATL) power forward’s lack of scoring power compared to other teams.** Upon further exploration, **the Hawks had only one power forward listed on their roster, Mouhamed Gueye.** This rookie had a tough season of injuries. After being diagnosed with a stress fracture in November, he came back to play four months later in the NBA G League (the NBA’s official minor league) and then later suffered an ulnar collateral ligament (UCL) injury. Late in the regular NBA season, he was able to play in the last handful of games for the Hawks and brought in 24 points throughout the season. Understandably, other players on the team needed to fill this void. **Jalen Johnson and De’Andre Hunter stepped up and played most of the season as power forwards despite being listed as small forwards on the team roster.** According to position estimates found [here](https://www.basketball-reference.com/leagues/NBA_2024_play-by-play.html){:target="_blank"}, Johnson spent 94% of the season as a power forward. In comparison, Hunter played 67% of games in the same position. **Together, they scored 1,787 points for the season, close to the NBA’s median of 1,839 points for power forwards.** Although not uncommon, this shifting in positions also may explain why the Hawks’ listed shooting guards scored an impressive 3,685 points, 1,789 more than the league median, nearly surpassing the Toronto Raptors’ shooting guards, who secured 3,700 points. **Overall, despite this adversity, the Atlanta Hawks were able to make adjustments that ultimately allowed them to clinch a spot among the NBA’s top five highest-scoring teams this season.**
