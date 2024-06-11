@@ -22,6 +22,7 @@ I also have a **master’s degree in Applied Industrial Mathematics**, which inc
 -	Python
 -	Domo
 -	Excel
+-	R
 
 <br><br>
 <hr>
