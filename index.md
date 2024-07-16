@@ -15,7 +15,7 @@
 
 ---
 
-[<img src="images/Resume 2.png?raw=true"/>](/files/Resume - Megan Smith.pdf){:target="blank"}
+[<img src="images/Resume 2.png?raw=true"/>](/files/Resume_Megan_Smith.pdf){:target="blank"}
 
 ---
 
