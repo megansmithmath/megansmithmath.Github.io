@@ -60,7 +60,7 @@ Each rectangle represents a player and is color-coded for the position they play
 #### Analysis: Team Points by Players
 To quickly identify general trends in the distribution of total points made by each player, I created a quick stacked bar chart in Tableau, displayed below.
 
-[<img src="images/NBA4.png?raw=true"/>](https://public.tableau.com/app/profile/megansmithmath/viz/shared/4HP6NZDSW){:target="_blank"}
+[<img src="images/NBA4.png?raw=true"/>](https://public.tableau.com/app/profile/megansmithmath/viz/shared/Y74FF287H){:target="_blank"}
 
 While the visualization above houses a lot of information, it is clear that the Indiana Pacers (IND) and Boston Celtics (BOS) are the two highest-scoring teams in the NBA this season, and they advanced to the final four of the playoffs. However, the Dallas Mavericks (DAL) and Minnesota Timberwolves (MIN) made it to the final four but were not among the top five scoring teams. This implies **that advancing to the playoffs is not reliant on the offensive game alone.** The defensive game is just as important.
 
