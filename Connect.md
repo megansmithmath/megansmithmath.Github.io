@@ -7,7 +7,7 @@
 --- 
 #### []()
 <br>
-I have a strong passion for data analysis and am actively pursuing a data analyst role. If you know of any opportunities, I’d love to talk with you to learn more. Let’s connect and discuss how my skills can contribute to your next data-driven project. You can also join me on LinkedIn to follow my data journey and stay updated on my future data projects.
+I have a strong passion for data analysis and am always seeking ways to grow my skill set. Let’s connect and discuss how my skills can contribute to your next data-driven project. You can join me on LinkedIn to stay updated on my future data projects.
   <br><br>
 
   <hr>
