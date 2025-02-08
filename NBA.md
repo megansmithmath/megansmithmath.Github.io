@@ -42,7 +42,7 @@ The Charlotte Hornets (CHO) and the Cleveland Cavaliers (CLE) centers are highli
 #### Analysis: Points, Assists, and Rebounds by Position
 Next, the NBA would like to know how different players performed this season to evaluate for potential free-agent signings. As a result, I examined all players' total points, total assists, and total rebounds using a bubble plot, as shown below. 
 
-[<img src="images/NBA2.png?raw=true"/>](https://public.tableau.com/shared/Z4W7ZSGQY?:display_count=n&:origin=viz_share_link){:target="_blank"}
+[<img src="images/NBA2.png?raw=true"/>](https://public.tableau.com/shared/4HP6NZDSW?:display_count=n&:origin=viz_share_link){:target="_blank"}
 
 To visually represent players’ roles on the court, the inner positions (centers and power forwards) are depicted in shades of orange, while the three remaining outer positions are in shades of blue and grey. The dashed linear regression line shows a strong positive correlation with a coefficient of determination, or R-squared value, of 0.725. This indicates that **as the number of points scored increases, so does the number of assists**. 
 
