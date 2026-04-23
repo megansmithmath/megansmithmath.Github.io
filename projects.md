@@ -7,20 +7,21 @@
 
 ---
 
-#### [Tableau: Sports Analytics](/NBA)
-[<img src="images/NBA0.png?raw=true"/>](/NBA)
-- Analyzed NBA data in Tableau to identify 3-pointer shooting efficiency, player performance by position, and team scoring trends, identifying disparities and strategic recruitment needs.
-- Evaluated player performance metrics, discovering a strong correlation between points and assists and identifying top performers.
-- Utilized Tableau to create data visualizations analyzing team points distribution, highlighting top-scoring teams and individual player contributions. 
+#### [SQL: Healthcare Data](https://www.linkedin.com/pulse/providing-best-care-analysis-diabetic-patients-megan-smith/){:target="_blank"}
+[<img src="images/0 Healthcare Cover Pic.png?raw=true"/>](https://www.linkedin.com/pulse/providing-best-care-analysis-diabetic-patients-megan-smith/){:target="_blank"}
+- Leveraged SQL to examine hospital patient data spanning 10 years and covering over 101,000 diabetic patients, identifying correlations between medical specialties and patient procedures, and assessing the impact of race on medical treatments.
+- Analyzed healthcare data to reveal equitable treatment for diabetic patients regardless of race, highlighting an inclusive approach and commitment to unbiased healthcare services.
+- Translated analytical findings into actionable recommendations, including suggestions for optimizing hospital operations, enhancing patient care, and leveraging success stories for public relations initiatives. 
 
 
 ---
 
-#### [R: People Analytics](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/){:target="_blank"}
-[<img src="images/0 HR Cover.png?raw=true"/>](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/){:target="_blank"}
-- Utilized R programming language in RStudio to examine human resource data for 1,470 employees to investigate HR-related claims, effectively refuting allegations of ageism and income-based layoffs. 
-- Developed multivariate linear regression models to explore complex relationships between employee attributes, facilitating a deeper understanding of factors influencing monthly income and informing HR strategies, resulting in a 35% increase in predictive power compared to univariate models.
-- Analyzed performance rating correlations, finding strong ties to percent salary hikes (r = 0.77) but not to monthly income or training attendance, leading to recommendations for targeted professional development programs. 
+#### [TABLEAU: Education Data](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith/){:target="_blank"}
+[<img src="images/0 Education Cover Photo.png?raw=true"/>](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith/){:target="_blank"}
+- Conducted school performance analysis to evaluate graduation rates and demographic data of 1,800+ schools, distinguishing top and bottom performers based on graduation statistics, economically disadvantaged students, and students with high needs.
+- Leveraged Tableau to investigate geographic patterns of educational outcomes, mapping graduation rates to school locations and identifying clusters of high and low-performing schools, informing allocation and policy initiatives.
+- Orchestrated the development of an interactive Tableau dashboard, presenting actionable insights to an analyst team at Kaplan Inc., proposing strategies to improve student support and enhance academic success.
+  - I was sought out by an analytics leader at Kaplan, Inc. and asked to speak at their Internal Tableau User Group Meeting as a guest speaker about this project. My 50-minute presentation provided specific insights for Kaplan analysts. Part of the presentation can be viewed in Tableau Public [here](https://public.tableau.com/views/KTUGPresentation/Story1?:language=en-US&:display_count=n&:origin=viz_share_link){:target="blank"}. 
 
 
 ---
@@ -34,11 +35,11 @@
 
 ---
 
-#### [SQL: Healthcare Data](https://www.linkedin.com/pulse/providing-best-care-analysis-diabetic-patients-megan-smith/){:target="_blank"}
-[<img src="images/0 Healthcare Cover Pic.png?raw=true"/>](https://www.linkedin.com/pulse/providing-best-care-analysis-diabetic-patients-megan-smith/){:target="_blank"}
-- Leveraged SQL to examine hospital patient data spanning 10 years and covering over 101,000 diabetic patients, identifying correlations between medical specialties and patient procedures and assessing the impact of race on medical treatments.
-- Analyzed healthcare data to reveal equitable treatment for diabetic patients regardless of race, highlighting an inclusive approach and commitment to unbiased healthcare services.
-- Translated analytical findings into actionable recommendations, including suggestions for optimizing hospital operations, enhancing patient care, and leveraging success stories for public relations initiatives. 
+#### [R: People Analytics](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/){:target="_blank"}
+[<img src="images/0 HR Cover.png?raw=true"/>](https://www.linkedin.com/pulse/examining-employee-attrition-hr-analysis-layoff-patterns-megan-smith-0khvc/){:target="_blank"}
+- Utilized R programming language in RStudio to examine human resource data for 1,470 employees to investigate HR-related claims, effectively refuting allegations of ageism and income-based layoffs. 
+- Developed multivariate linear regression models to explore complex relationships between employee attributes, facilitating a deeper understanding of factors influencing monthly income and informing HR strategies, resulting in a 35% increase in predictive power compared to univariate models.
+- Analyzed performance rating correlations, finding strong ties to percent salary hikes (r = 0.77) but not to monthly income or training attendance, leading to recommendations for targeted professional development programs. 
 
 
 ---
@@ -52,12 +53,12 @@
 
 ---
 
-#### [TABLEAU: Education Data](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith/){:target="_blank"}
-[<img src="images/0 Education Cover Photo.png?raw=true"/>](https://www.linkedin.com/pulse/increasing-graduation-rates-analysis-massachusetts-public-megan-smith/){:target="_blank"}
-- Conducted school performance analysis to evaluate graduation rates and demographic data of 1,800+ schools, distinguishing top and bottom performers based on graduation statistics, economically disadvantaged students, and students with high needs.
-- Leveraged Tableau to investigate geographic patterns of educational outcomes, mapping graduation rates to school locations and identifying clusters of high and low-performing schools, informing allocation and policy initiatives.
-- Orchestrated the development of an interactive Tableau dashboard, presenting actionable insights to an analyst team at Kaplan Inc., proposing strategies to improve student support and enhance academic success.
-  - I was sought out by an analytics leader at Kaplan, Inc. and asked to speak at their Internal Tableau User Group Meeting as a guest speaker about this project. My 50-minute presentation provided specific insights for Kaplan analysts. Part of the presentation can be viewed in Tableau Public [here](https://public.tableau.com/views/KTUGPresentation/Story1?:language=en-US&:display_count=n&:origin=viz_share_link){:target="blank"}. 
+#### [Tableau: Sports Analytics](/NBA)
+[<img src="images/NBA0.png?raw=true"/>](/NBA)
+- Analyzed NBA data in Tableau to identify 3-pointer shooting efficiency, player performance by position, and team scoring trends, identifying disparities and strategic recruitment needs.
+- Evaluated player performance metrics, discovering a strong correlation between points and assists and identifying top performers.
+- Utilized Tableau to create data visualizations analyzing team points distribution, highlighting top-scoring teams and individual player contributions.
+
 
 ---
 #### [EXCEL: Marketing Data](https://www.linkedin.com/pulse/doordash-optimizing-marketing-trends-through-data-analytics-smith/){:target="_blank"}
