@@ -7,7 +7,7 @@
 
 ---
 
-#### [SQL: Sports Analytics](/NBA)
+#### [Tableau: Sports Analytics](/NBA)
 [<img src="images/NBA0.png?raw=true"/>](/NBA)
 - Analyzed NBA data in Tableau to identify 3-pointer shooting efficiency, player performance by position, and team scoring trends, identifying disparities and strategic recruitment needs.
 - Evaluated player performance metrics, discovering a strong correlation between points and assists and identifying top performers.
