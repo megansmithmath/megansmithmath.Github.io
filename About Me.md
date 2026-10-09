@@ -9,16 +9,22 @@ I am an expert data analyst specializing in **healthcare analytics**, HEDIS qual
 
 I enjoy translating complex data into clear, actionable insights through data storytelling and interactive dashboards. My experience collaborating with technical teams, business stakeholders, and leadership allows me to **bridge the gap between data and business needs**. My background in mathematics education further strengthens my ability to communicate complex concepts, approach problems analytically, and make insights accessible to diverse audiences.
 
-**Technical Skills**
-SQL | Python | Excel | Microsoft Azure | Databricks | Tableau | R
-
-**Areas of Expertise**
+Areas of Expertise
 - Healthcare Analytics
 - HEDIS & Stars Performance
 - Data Validation
 - Performance Analysis
 - Data Visualization
 - Cross-Functional Collaboration
+
+Technical Skills
+- SQL
+- Python
+- Excel
+- Microsoft Azure
+- Databricks
+- Tableau
+- R
   
 <br><br>
 <hr>
