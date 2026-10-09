@@ -5,25 +5,21 @@
 ---
 #### []()
 <br>
-I have a solid combination of data analysis and learning development experience with proven skills in improving culture and creating environments that allow clients to meet all KPIs and milestones and easily apply **data-driven solutions** for over 15 years. I have **outstanding communication** and success in fast-paced environments with a reputation for forming a rapport with diverse, multicultural individuals at all levels. I have demonstrated a commitment to maximizing technology and **developing powerful solutions** for over 120 clients in one year. I have knowledge and experience in:
--	Performance Analysis
--	Data-Driven Instruction
--	Calm Under Tense Situations
--	Communication & Transparency
--	Cooperative Problem Resolver
--	Leadership & Management
--	Multitasking & Organization
--	Objective & Goal Thinker
--	Team & Staff Collaboration
+I am an expert data analyst specializing in **healthcare analytics**, HEDIS quality measures, and performance improvement. With a **Master of Science in Applied Industrial Mathematics**, I bring a strong quantitative foundation and experience using data to identify performance gaps, investigate discrepancies, and support data-driven decision-making.
 
-I also have a **master’s degree in Applied Industrial Mathematics**, which included advanced coursework in mathematical modeling, optimization techniques, and numerical methods. I have experience in data visualization and analytics programs, including: 
--	Tableau
--	SQL
--	Python
--	Domo
--	Excel
--	R
+I enjoy translating complex data into clear, actionable insights through data storytelling and interactive dashboards. My experience collaborating with technical teams, business stakeholders, and leadership allows me to **bridge the gap between data and business needs**. My background in mathematics education further strengthens my ability to communicate complex concepts, approach problems analytically, and make insights accessible to diverse audiences.
 
+**Technical Skills**
+SQL | Python | Excel | Microsoft Azure | Databricks | Tableau | R
+
+**Areas of Expertise**
+- Healthcare Analytics
+- HEDIS & Stars Performance
+- Data Validation
+- Performance Analysis
+- Data Visualization
+- Cross-Functional Collaboration
+  
 <br><br>
 <hr>
   <br>
