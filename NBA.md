@@ -53,7 +53,7 @@ Two centers are outliers: **Domantas Sabonis** of the Sacramento Kings and **Nik
 #### Analysis: Player Assists by Position
 Next, the NBA was interested in understanding the distribution of assists among players and positions. So, as shown below, I used a treemap to visualize this data.
 
-[<img src="images/NBA3.png?raw=true"/>](https://public.tableau.com/shared/4CPY75H3N?:display_count=n&:origin=viz_share_link){:target="_blank"}
+[<img src="images/NBA3.png?raw=true"/>](https://public.tableau.com/shared/32JHQKWJF?:display_count=n&:origin=viz_share_link){:target="_blank"}
 
 Each rectangle represents a player and is color-coded for the position they play. The larger the rectangle, the more assists that player had during the season, which allows for quick identification of top assist leaders. **Overall, point guards are responsible for the majority of assists**, which, as discussed earlier, makes sense given their role in directing the team's offense. **LeBron James** of the Los Angeles Lakers **had 589 assists, the highest of all power forwards in the NBA. Centers Nikola Jokić and Domantas Sabonis have the highest number of assists** (708 and 673, respectively), **nearly double that of the next-highest center**, Kelly Olynyk (347). 
 
