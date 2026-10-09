@@ -35,7 +35,7 @@ In the dataset, each NBA player had at least one row of statistics for the 2023-
 #### Analysis: 3-Point Percentages
 Once the data was cleaned, the first task was to create a data visualization to determine the teams with the highest percentage of successful 3-point shots per position. Below is a heatmap displaying this data in Tableau. 
 
-[<img src="images/NBA1.png?raw=true"/>](https://public.tableau.com/shared/P43ZX7GXS?:display_count=n&:origin=viz_share_link){:target="_blank"}
+[<img src="images/NBA1.png?raw=true"/>](https://public.tableau.com/shared/5HXPTQ7F4?:display_count=n&:origin=viz_share_link){:target="_blank"}
 
 The Charlotte Hornets (CHO) and the Cleveland Cavaliers (CLE) centers are highlighted in shades of orange. This indicates that the centers for these teams have very low 3-point percentages compared to other players and teams. While this is alarming, the centers on the team often play a significant role in defending against the opposing team’s larger players and typically play near the basket, thus having fewer opportunities for 3-point attempts. It is interesting to note that the **centers for the Boston Celtics (BOS) and the Minnesota Timberwolves (MIN) have the highest 3-point percentages (40%), and these are two teams that made it to the final four in the playoffs.** More analysis must be conducted to determine other factors contributing to these team's success.
 
